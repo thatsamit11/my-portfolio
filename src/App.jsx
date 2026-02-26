@@ -69,7 +69,7 @@ export default function App() {
             </a>
 
             <a
-              href="/Amit_Thakur_Simple_Resume_Final.pdf"
+              href="/Amit_Thakur_Resume.pdf"
               download
               className="px-6 py-3 border border-cyan-400 rounded-full hover:bg-cyan-400 hover:text-black transition"
             >
@@ -129,7 +129,7 @@ export default function App() {
 
           <p className="text-gray-400 mb-6 text-sm sm:text-base">
             Full-stack job portal with JWT authentication, recruiter & candidate dashboards,
-            CRUD operations and responsive UI.
+            CRUD operations.
           </p>
 
           <div className="flex flex-wrap gap-4 justify-center">
