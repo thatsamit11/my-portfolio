@@ -69,7 +69,7 @@ export default function App() {
             </a>
 
             <a
-              href="/Amit_Thakur_Resume.pdf"
+              href="/Resume.pdf"
               download
               className="px-6 py-3 border border-cyan-400 rounded-full hover:bg-cyan-400 hover:text-black transition"
             >
